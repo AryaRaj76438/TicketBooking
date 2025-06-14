@@ -1,0 +1,14 @@
+[
+  {
+    "userId": "12345",
+    "name": "QuantumSyntax",
+    "hashPassword": "abc12345",
+    "ticketsBooked": [
+      {
+        "source": "Banglore",
+        "destination": "Delhi",
+        "dateOfTravel": "2023-12-08T18:30:00Z"
+      }
+    ]
+  }
+]
